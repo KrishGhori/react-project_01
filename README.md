@@ -12,27 +12,13 @@ A frontend web application built using Vite and modern JavaScript. This project 
 
 ## Project Structure
 
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-├── eslint.config.js
-├── .gitignore
-└── src/
-
-## Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-Go to the project folder:
-
-cd your-repo-name
-
-Install dependencies:
-
-npm install
+index.html
+package.json
+package-lock.json
+vite.config.js
+eslint.config.js
+.gitignore
+src/
 
 ## Run the Project
 
@@ -46,10 +32,6 @@ npm run build
 
 npm run lint
 
-## Purpose
+## Purpose of project
 
 This project is created to practice modern frontend development using Vite and JavaScript with a clean and fast setup.
-
-## License
-
-MIT License
